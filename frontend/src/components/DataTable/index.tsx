@@ -1,6 +1,6 @@
 
 
-function Footer() {
+function DataTable() {
     return (
 
         <div className="table-responsive">
@@ -25,8 +25,7 @@ function Footer() {
                 </tbody>
             </table>
         </div>
-
     );
 }
 
-export default Footer;
+export default DataTable;
