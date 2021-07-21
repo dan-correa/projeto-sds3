@@ -1,5 +1,5 @@
 # projeto-sds3 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/dan-correa/dio_people_api/commit/0e82084ca698a9da46975da5ee8082e320f17c64) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/dan-correa/projeto-sds3/blob/main/LICENSE) 
 
 # Sobre o projeto
 
